@@ -62,5 +62,5 @@ While it's simple and open-source, it's best used for **educational purposes** o
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/multi-type-captcha.git
-cd multi-type-captcha
+git clone [https://github.com/yourusername/Captcha_Generator](https://github.com/Johnmohamed2565/Captcha_Generator).git
+cd Captcha_Generator
