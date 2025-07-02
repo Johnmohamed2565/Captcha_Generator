@@ -52,9 +52,9 @@ While it's simple and open-source, it's best used for **educational purposes** o
 
 | Text CAPTCHA | Image CAPTCHA |
 |--------------|----------------|
-| ![Screenshot 2025-07-02 203018](https://github.com/user-attachments/assets/590a3587-bd52-4cd0-82db-9fd3502c4b3e)) | ![Image CAPTCHA](![Screenshot 2025-07-02 203042](https://github.com/user-attachments/assets/72e43136-3c93-44d2-872b-97fc75eaa4da)) || Audio CAPTCHA | Math CAPTCHA |
+| ![Screenshot 2025-07-02 203018](https://github.com/user-attachments/assets/590a3587-bd52-4cd0-82db-9fd3502c4b3e) | ![Screenshot 2025-07-02 203042](https://github.com/user-attachments/assets/72e43136-3c93-44d2-872b-97fc75eaa4da) || Audio CAPTCHA | Math CAPTCHA |
 |----------------|---------------|
-| ![Audio CAPTCHA](![Screenshot 2025-07-02 204451](https://github.com/user-attachments/assets/18ef32e3-6a4c-4969-a921-4579d73e9003)) | ![Math CAPTCHA](![Screenshot 2025-07-02 203148](https://github.com/user-attachments/assets/7143ad98-c2a2-456b-ac44-cccdba266bb0)) |
+| ![Screenshot 2025-07-02 204451](https://github.com/user-attachments/assets/18ef32e3-6a4c-4969-a921-4579d73e9003)) |![Screenshot 2025-07-02 203148](https://github.com/user-attachments/assets/7143ad98-c2a2-456b-ac44-cccdba266bb0) |
 
 ---
 
